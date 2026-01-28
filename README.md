@@ -78,12 +78,6 @@ Customizable virtual environment platform for diverse virtual experiences (1+ ye
 
 ***
 
-## 📊 GitHub Stats
-
-
-
-***
-
 **⭐ If you find my projects interesting, feel free to star them or reach out for collaboration!**
 
 ***
