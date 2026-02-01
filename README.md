@@ -39,25 +39,25 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 
 ## 🚀 Featured Projects
 
-### [SmartDeploy](https://github.com/anirudh-makuluri/smartdeploy)
+### [SmartDeploy](https://github.com/anirudh-makuluri/smart-deploy)
 Lightweight DevOps automation platform for seamless GitHub-to-Cloud Run deployments with LLM-powered configuration.
 - **Tech:** Next.js, Google Cloud Platform, WebSockets, Firebase, LLM
 
-### [Chatify](https://github.com/anirudh-makuluri/chatify)
+### [Chatify](https://github.com/anirudh-makuluri/chatify-next)
 Real-time chat application with one-to-one & group messaging, voice/video calls, and Google OAuth authentication.
 - **Tech:** Next.js, React, Node.js, Firebase, Socket.io, WebRTC
 
-### [CodeCraft](https://github.com/anirudh-makuluri/codecraft)
+### [CodeCraft](https://github.com/anirudh-makuluri/code-craft)
 Real-time web design platform with live HTML/CSS/JS editing and Shadcn/Tailwind CSS integration.
 - **Tech:** Next.js, .NET, MSSQL, JWT Authentication
 
-### [LexiGuess](https://github.com/anirudh-makuluri/lexiguess)
+### [LexiGuess](https://github.com/anirudh-makuluri/lexiguess-next)
 An engaging word-guessing game with three modes and educational word definitions.
 - **Tech:** Next.js, Tailwind CSS
 
-### [Shardings Meet](https://github.com/shardings/shardings-meet)
+### [Shardings Meet](https://shardings.com)
 Customizable virtual environment platform for diverse virtual experiences (1+ year full-stack development).
-- **Tech:** React, React Native, Node.js, Firebase, WebRTC, GCP
+- **Tech:** React, React Native, Node.js, Firebase, WebRTC, GCP, Mediasoup
 
 ***
 
