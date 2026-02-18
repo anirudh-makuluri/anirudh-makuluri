@@ -13,7 +13,6 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 - 🎓 **M.S. Computer Science** @ ASU (Aug 2024 - Present) – Focus on AI/ML
 - 💼 **1+ years professional experience** as a Full-Stack Engineer @ Shardings
 - 🏆 **Oracle Certified** in Generative AI & Cloud Infrastructure
-- 🌍 **Indian Citizen** | F-1 Visa | Eligible for OPT & STEM OPT (36 months)
 - 💡 Passionate about real-time systems, AI/ML deployment, and developer tools
 
 ***
