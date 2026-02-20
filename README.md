@@ -38,9 +38,9 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 
 ## 🚀 Featured Projects
 
-### [SmartDeploy](https://github.com/anirudh-makuluri/smart-deploy)
-Lightweight DevOps automation platform for seamless GitHub-to-Cloud Run deployments with LLM-powered configuration.
-- **Tech:** Next.js, Google Cloud Platform, WebSockets, Firebase, LLM
+### [SmartDeploy](https://smart-deploy.anirudh-makuluri.xyz)
+Lightweight DevOps automation platform for seamless GitHub-to-Production deployments with LLM-powered configuration.
+- **Tech:** Next.js, Amazon Web Services, Google Cloud Platform, Zustand, Tanstack Query, WebSockets, Supabase, LLM
 
 ### [Chatify](https://github.com/anirudh-makuluri/chatify-next)
 Real-time chat application with one-to-one & group messaging, voice/video calls, and Google OAuth authentication.
