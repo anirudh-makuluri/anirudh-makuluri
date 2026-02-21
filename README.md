@@ -43,16 +43,16 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 Lightweight DevOps automation platform for seamless GitHub-to-Production deployments with LLM-powered configuration.
 - **Tech:** Next.js, Amazon Web Services, Google Cloud Platform, Zustand, Tanstack Query, WebSockets, Supabase, LLM
 
-### [Accio — PDF RAG System](https://pdf-knowledge-system.anirudh-makuluri.xyz)
+### [Accio — PDF RAG System](https://github.com/anirudh-makuluri/accio)
 End-to-end PDF knowledge extraction → Neo4j KG → grounded Q&A chatbot with bbox citations.
 - **Tech:** Neo4j, PyMuPDF, sentence-transformers, FastAPI, Streamlit, Google Gemini, Docker
 
-### [GraphStream DPS — Taxi Graph Analytics](https://graphstream-dps.anirudh-makuluri.xyz)
+### [GraphStream DPS — Taxi Graph Analytics](https://github.com/anirudh-makuluri/graphstream_dps)
 Kubernetes streaming pipeline: NYC taxi trips → Neo4j GDS (PageRank/BFS) via Kafka Connect.
 - **Tech:** Kubernetes, Helm, Kafka, ZooKeeper, Neo4j Graph Data Science, Python, Docker Compose
 
 
-### [Chatify](https://github.com/anirudh-makuluri/chatify-next)
+### [Chatify](https://chatify.anirudh-makuluri.xyz/)
 Real-time chat application with one-to-one & group messaging, voice/video calls, and Google OAuth authentication.
 - **Tech:** Next.js, React, Node.js, Firebase, Socket.io, WebRTC
 
