@@ -20,19 +20,20 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React.js | Next.js | TypeScript | JavaScript | Tailwind CSS | Redux | Framer Motion | Zustand | Tanstack Query
+- React.js | Next.js | TypeScript | JavaScript | Tailwind CSS | Redux | Framer Motion | **Zustand** | **TanStack Query**
 
 **Mobile**
-- React Native | CodePush | Firebase Cloud Messaging | Fastlane
+- React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
 
 **Backend**
-- Node.js | .NET | C# | Java | Socket.IO | WebRTC
+- Node.js | **FastAPI** | .NET | C# | Java | Socket.IO | WebRTC
 
 **Database & Cloud**
-- Firebase | MSSQL | Google Cloud Platform | Oracle Cloud Infrastructure
+- **Supabase** | Firebase | **Neo4j** | MSSQL | **PostgreSQL** | **Kafka** | **ZooKeeper** | **Kubernetes** | **Helm** | **Docker** | AWS (EC2, ECS, EBS, ALB) | Google Cloud Platform | Oracle Cloud Infrastructure
 
 **AI & Machine Learning**
-- Generative AI | Langchain | TensorFlow | Scikit-Learn | XGBoost
+- **Generative AI** | **CrewAI** | Langchain | **Ollama/Mistral** | **sentence-transformers** | **PyTorch Geometric** | TensorFlow | **Graph Data Science** | Scikit-Learn | XGBoost
+
 
 ***
 
@@ -41,6 +42,15 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 ### [SmartDeploy](https://smart-deploy.anirudh-makuluri.xyz)
 Lightweight DevOps automation platform for seamless GitHub-to-Production deployments with LLM-powered configuration.
 - **Tech:** Next.js, Amazon Web Services, Google Cloud Platform, Zustand, Tanstack Query, WebSockets, Supabase, LLM
+
+### [Accio — PDF RAG System](https://pdf-knowledge-system.anirudh-makuluri.xyz)
+End-to-end PDF knowledge extraction → Neo4j KG → grounded Q&A chatbot with bbox citations.
+- **Tech:** Neo4j, PyMuPDF, sentence-transformers, FastAPI, Streamlit, Google Gemini, Docker
+
+### [GraphStream DPS — Taxi Graph Analytics](https://graphstream-dps.anirudh-makuluri.xyz)
+Kubernetes streaming pipeline: NYC taxi trips → Neo4j GDS (PageRank/BFS) via Kafka Connect.
+- **Tech:** Kubernetes, Helm, Kafka, ZooKeeper, Neo4j Graph Data Science, Python, Docker Compose
+
 
 ### [Chatify](https://github.com/anirudh-makuluri/chatify-next)
 Real-time chat application with one-to-one & group messaging, voice/video calls, and Google OAuth authentication.
