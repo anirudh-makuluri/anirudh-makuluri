@@ -20,7 +20,7 @@ I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Co
 ## 🛠️ Tech Stack
 
 **Frontend**
-- React.js | Next.js | TypeScript | JavaScript | Tailwind CSS | Redux | Framer Motion
+- React.js | Next.js | TypeScript | JavaScript | Tailwind CSS | Redux | Framer Motion | Zustand | Tanstack Query
 
 **Mobile**
 - React Native | CodePush | Firebase Cloud Messaging | Fastlane
