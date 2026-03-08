@@ -34,7 +34,7 @@ React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | Rea
 **DevOps**  
 LangChain | LangGraph | Supabase | Hadolint | GitHub API | Server-Sent Events
 
-**Mobile**
+**Mobile**  
 React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
 
 ***
