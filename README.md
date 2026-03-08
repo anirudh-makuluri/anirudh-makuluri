@@ -20,22 +20,22 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 ## 🛠️ Tech Stack
 
 **Frontend**  
-React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | React Native
+- React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | React Native
 
 **Backend & APIs**  
-**FastAPI** | Node.js | Socket.IO | WebRTC | Mediasoup
+- **FastAPI** | Node.js | Socket.IO | WebRTC | Mediasoup
 
 **Infra & Cloud**  
-**Docker** | Kubernetes | Helm | AWS (EC2/ECS/ALB) | GCP | GitHub Actions | Terraform
+- **Docker** | Kubernetes | Helm | AWS (EC2/ECS/ALB) | GCP | GitHub Actions | Terraform
 
 **AI/ML & Data**  
-**Claude 3 Haiku** (Bedrock) | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
+- **Claude 3 Haiku** (Bedrock) | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
 
 **DevOps**  
-LangChain | LangGraph | Supabase | Hadolint | GitHub API | Server-Sent Events
+- LangChain | LangGraph | Supabase | Hadolint | GitHub API | Server-Sent Events
 
 **Mobile**  
-React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
+- React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
 
 ***
 
