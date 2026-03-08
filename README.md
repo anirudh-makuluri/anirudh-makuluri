@@ -23,7 +23,7 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | React Native
 
 **Backend & APIs**  
-**FastAPI** | Node.js | Socket.IO | WebRTC | LangGraph | CrewAI
+**FastAPI** | Node.js | Socket.IO | WebRTC | Mediasoup
 
 **Infra & Cloud**  
 **Docker** | Kubernetes | Helm | AWS (EC2/ECS/ALB) | GCP | GitHub Actions | Terraform
@@ -32,7 +32,7 @@ React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | Rea
 **Claude 3 Haiku** (Bedrock) | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
 
 **DevOps**  
-LangChain | Supabase | Hadolint | GitHub API | Server-Sent Events
+LangChain | LangGraph | Supabase | Hadolint | GitHub API | Server-Sent Events
 
 **Mobile**
 React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
