@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anirudh Makuluri
 
-**Full-Stack & AI/ML Developer** | ASU M.S. Computer Science | Building scalable web & mobile applications
+**Full-Stack & AI/ML Engineer** | ASU M.S. CS (GPA 3.96) | SmartDeploy & SD-Artifacts Creator
 
 
 
@@ -8,85 +8,79 @@
 
 ## 🎯 About Me
 
-I'm a full-stack engineer and AI enthusiast currently pursuing my Master's in Computer Science at **Arizona State University** with a focus on generative AI and machine learning. I specialize in building scalable, production-ready applications using modern web technologies and cloud platforms.
+Full-stack engineer turning manual DevOps workflows into AI-powered platforms. Currently building **SmartDeploy** (AI DevOps for AWS/GCP) and **SD-Artifacts** (LLM repo analyzer for production infra generation). 1+ years professional experience shipping real-time systems for 12K users.
 
-- 🎓 **M.S. Computer Science** @ ASU (Aug 2024 - Present) – Focus on AI/ML
-- 💼 **1+ years professional experience** as a Full-Stack Engineer @ Shardings
-- 🏆 **Oracle Certified** in Generative AI & Cloud Infrastructure
-- 💡 Passionate about real-time systems, AI/ML deployment, and developer tools
+- 🎓 **M.S. Computer Science** @ ASU (Aug 2024–May 2026) – AI/ML focus, GPA 3.96
+- 💼 **Software Engineer** @ Shardings – React Native/Node/Firebase for 12K-user video platform
+- 🏆 **Oracle Certified Generative AI Professional** + ML Specialization (DeepLearning.AI)
+- 🚀 **17+ GitHub repos** – RAG systems, Kubernetes graphs, E2EE chat, DevOps automation
 
 ***
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- React.js | Next.js | TypeScript | JavaScript | Tailwind CSS | Redux | Framer Motion | **Zustand** | **TanStack Query**
+**Frontend**  
+React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | React Native
+
+**Backend & APIs**  
+**FastAPI** | Node.js | Socket.IO | WebRTC | LangGraph | CrewAI
+
+**Infra & Cloud**  
+**Docker** | Kubernetes | Helm | AWS (EC2/ECS/ALB) | GCP | GitHub Actions | Terraform
+
+**AI/ML & Data**  
+**Claude 3 Haiku** (Bedrock) | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
+
+**DevOps**  
+LangChain | Supabase | Hadolint | GitHub API | Server-Sent Events
 
 **Mobile**
-- React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
-
-**Backend**
-- Node.js | **FastAPI** | .NET | C# | Java | Socket.IO | WebRTC
-
-**Database & Cloud**
-- **Supabase** | Firebase | **Neo4j** | MSSQL | **PostgreSQL** | **Kafka** | **ZooKeeper** | **Kubernetes** | **Helm** | **Docker** | AWS (EC2, ECS, EBS, ALB) | Google Cloud Platform | Oracle Cloud Infrastructure
-
-**AI & Machine Learning**
-- **Generative AI** | **CrewAI** | Langchain | **Ollama/Mistral** | **sentence-transformers** | **PyTorch Geometric** | TensorFlow | **Graph Data Science** | Scikit-Learn | XGBoost
-
+React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
 
 ***
 
 ## 🚀 Featured Projects
 
 ### [SmartDeploy](https://smart-deploy.anirudh-makuluri.xyz)
-Lightweight DevOps automation platform for seamless GitHub-to-Production deployments with LLM-powered configuration.
-- **Tech:** Next.js, Amazon Web Services, Google Cloud Platform, Zustand, Tanstack Query, WebSockets, Supabase, LLM
+**AI DevOps platform** – Connect GitHub repo → auto-detects stack → deploys to AWS/GCP with VPC, ALB, RDS. Zero-config, production-grade.  
+⭐ **Live** | Next.js | AWS/GCP | WebSockets | TanStack Query | Supabase
 
-### [Accio — PDF RAG System](https://github.com/anirudh-makuluri/accio)
-End-to-end PDF knowledge extraction → Neo4j KG → grounded Q&A chatbot with bbox citations.
-- **Tech:** Neo4j, PyMuPDF, sentence-transformers, FastAPI, Streamlit, Google Gemini, Docker
+### [SD-Artifacts](https://github.com/anirudh-makuluri/sd-artifacts)
+**LLM Repo Analyzer** – Scans GitHub repos → generates Dockerfile/compose/nginx + hadolint validation. Powers SmartDeploy's infra gen.  
+⭐ **LangGraph** | Claude 3 Haiku | FastAPI SSE | Supabase Cache | GitHub API 
 
-### [GraphStream DPS — Taxi Graph Analytics](https://github.com/anirudh-makuluri/graphstream_dps)
-Kubernetes streaming pipeline: NYC taxi trips → Neo4j GDS (PageRank/BFS) via Kafka Connect.
-- **Tech:** Kubernetes, Helm, Kafka, ZooKeeper, Neo4j Graph Data Science, Python, Docker Compose
+### [Accio — PDF RAG](https://github.com/anirudh-makuluri/accio)
+PDFs → Neo4j knowledge graph (3K nodes/4.9K edges) → grounded Q&A with bbox highlights. 77.5 F1 entity extraction.  
+⭐ **Neo4j** | PyMuPDF | Gemini | FastAPI | Docker
 
+### [GraphStream DPS](https://github.com/anirudh-makuluri/graphstream_dps)
+**K8s streaming pipeline** – NYC taxi data → Neo4j GDS (PageRank/BFS) via Kafka/ZooKeeper. <500ms event-to-graph latency.  
+⭐ **Kubernetes** | Helm | Kafka | Neo4j GDS | Docker  
 
-### [Chatify](https://chatify.anirudh-makuluri.xyz/)
-Real-time chat application with one-to-one & group messaging, voice/video calls, and Google OAuth authentication.
-- **Tech:** Next.js, React, Node.js, Firebase, Socket.io, WebRTC
-
-### [CodeCraft](https://github.com/anirudh-makuluri/code-craft)
-Real-time web design platform with live HTML/CSS/JS editing and Shadcn/Tailwind CSS integration.
-- **Tech:** Next.js, .NET, MSSQL, JWT Authentication
-
-### [LexiGuess](https://github.com/anirudh-makuluri/lexiguess-next)
-An engaging word-guessing game with three modes and educational word definitions.
-- **Tech:** Next.js, Tailwind CSS
-
-### [Shardings Meet](https://shardings.com)
-Customizable virtual environment platform for diverse virtual experiences (1+ year full-stack development).
-- **Tech:** React, React Native, Node.js, Firebase, WebRTC, GCP, Mediasoup
+### [Chatify — E2EE Chat](https://chatify.anirudh-makuluri.xyz)
+Real-time chat w/ groups, media, AI assistant (Gemini + Zep memory). Message-level E2EE via libsodium.  
+⭐ **Socket.IO** | React Native/Next.js | WebRTC | Firebase | Libsodium
 
 ***
 
 ## 🏅 Certifications
 
-- **Oracle Certified Generative AI Professional** (Aug 2025) – Advanced LLMs, RAG, Langchain
-- **Machine Learning Specialization** (May 2024) – DeepLearning.AI, Coursera, Stanford
-- **Oracle Certified Foundations Associate** (Sept 2023) – Cloud Infrastructure & IAM
-- **Foundational C# with Microsoft** (Sept 2023) – freeCodeCamp
+- **Oracle Certified Generative AI Professional** (Aug 2025)
+- **Machine Learning Specialization** – DeepLearning.AI (May 2024)
+- **Oracle Cloud Foundations** (Sept 2023)
+- **Microsoft C# Foundations** (Sept 2023)
 
 ***
 
 ## 💬 Get In Touch
 
-- 📧 **Email:** anirudh.makuluri@gmail.com
-- 🌐 **Portfolio:** [anirudh-makuluri.xyz](https://www.anirudh-makuluri.xyz)
-- 💼 **LinkedIn:** [/in/anirudh-makuluri](https://linkedin.com/in/anirudh-makuluri)
+- 📧 [anirudh.makuluri@gmail.com](mailto:anirudh.makuluri@gmail.com)
+- 🌐 [Portfolio](https://anirudh-makuluri.xyz) 
+- 💼 [LinkedIn](https://linkedin.com/in/anirudh-makuluri) 
+- 🐙 [GitHub](https://github.com/anirudh-makuluri) – 17 repos 
+
+Phoenix, AZ | Open to collaborations & roles 
 
 ***
 
-**⭐ If you find my projects interesting, feel free to star them or reach out for collaboration!**
-
-***
+**⭐ Star my repos! Building SmartDeploy full-time.**
