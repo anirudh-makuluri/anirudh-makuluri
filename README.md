@@ -13,7 +13,6 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 - 🎓 **M.S. Computer Science** @ ASU (Aug 2024–May 2026) – AI/ML focus, GPA 3.96
 - 💼 **Software Engineer** @ Shardings – React Native/Node/Firebase for 12K-user video platform
 - 🏆 **Oracle Certified Generative AI Professional** + ML Specialization (DeepLearning.AI)
-- 🚀 **17+ GitHub repos** – RAG systems, Kubernetes graphs, E2EE chat, DevOps automation
 
 ***
 
@@ -43,23 +42,23 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 
 ### [SmartDeploy](https://smart-deploy.anirudh-makuluri.xyz)
 **AI DevOps platform** – Connect GitHub repo → auto-detects stack → deploys to AWS/GCP with VPC, ALB, RDS. Zero-config, production-grade.  
-⭐ **Live** | Next.js | AWS/GCP | WebSockets | TanStack Query | Supabase
+Next.js | AWS/GCP | WebSockets | TanStack Query | Supabase
 
 ### [SD-Artifacts](https://github.com/anirudh-makuluri/sd-artifacts)
 **LLM Repo Analyzer** – Scans GitHub repos → generates Dockerfile/compose/nginx + hadolint validation. Powers SmartDeploy's infra gen.  
-⭐ **LangGraph** | Claude 3 Haiku | FastAPI SSE | Supabase Cache | GitHub API 
+LangGraph | Claude Haiku | FastAPI SSE | Supabase Cache | GitHub API 
 
 ### [Accio — PDF RAG](https://github.com/anirudh-makuluri/accio)
 PDFs → Neo4j knowledge graph (3K nodes/4.9K edges) → grounded Q&A with bbox highlights. 77.5 F1 entity extraction.  
-⭐ **Neo4j** | PyMuPDF | Gemini | FastAPI | Docker
+Neo4j | PyMuPDF | Gemini | FastAPI | Docker
 
 ### [GraphStream DPS](https://github.com/anirudh-makuluri/graphstream_dps)
 **K8s streaming pipeline** – NYC taxi data → Neo4j GDS (PageRank/BFS) via Kafka/ZooKeeper. <500ms event-to-graph latency.  
-⭐ **Kubernetes** | Helm | Kafka | Neo4j GDS | Docker  
+Kubernetes | Helm | Kafka | Neo4j GDS | Docker  
 
 ### [Chatify — E2EE Chat](https://chatify.anirudh-makuluri.xyz)
 Real-time chat w/ groups, media, AI assistant (Gemini + Zep memory). Message-level E2EE via libsodium.  
-⭐ **Socket.IO** | React Native/Next.js | WebRTC | Firebase | Libsodium
+Socket.IO | React Native/Next.js | WebRTC | Firebase | Libsodium
 
 ***
 
@@ -77,10 +76,7 @@ Real-time chat w/ groups, media, AI assistant (Gemini + Zep memory). Message-lev
 - 📧 [anirudh.makuluri@gmail.com](mailto:anirudh.makuluri@gmail.com)
 - 🌐 [Portfolio](https://anirudh-makuluri.xyz) 
 - 💼 [LinkedIn](https://linkedin.com/in/anirudh-makuluri) 
-- 🐙 [GitHub](https://github.com/anirudh-makuluri) – 17 repos 
 
 Phoenix, AZ | Open to collaborations & roles 
 
 ***
-
-**⭐ Star my repos! Building SmartDeploy full-time.**
