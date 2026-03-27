@@ -40,7 +40,7 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 
 ## 🚀 Featured Projects
 
-### [SmartDeploy](https://smart-deploy.anirudh-makuluri.xyz)
+### [SmartDeploy](https://smart-deploy.xyz)
 **AI DevOps platform** – Connect GitHub repo → auto-detects stack → deploys to AWS/GCP with VPC, ALB, RDS. Zero-config, production-grade.  
 Next.js | AWS/GCP | WebSockets | TanStack Query | Supabase
 
