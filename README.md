@@ -28,7 +28,7 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 - **Docker** | Kubernetes | Helm | AWS (EC2/ECS/ALB) | GCP | GitHub Actions | Terraform
 
 **AI/ML & Data**  
-- **Claude 3 Haiku** (Bedrock) | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
+- Bedrock | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
 
 **DevOps**  
 - LangChain | LangGraph | Supabase | Hadolint | GitHub API | Server-Sent Events
