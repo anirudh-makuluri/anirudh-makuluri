@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anirudh Makuluri
 
-**Full-Stack & AI/ML Engineer** | ASU M.S. CS (GPA 3.96) | SmartDeploy & SD-Artifacts Creator
+**Full-Stack & AI/ML Engineer** | ASU M.S. CS | SmartDeploy & SD-Artifacts Creator
 
 
 
@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-Full-stack engineer turning manual DevOps workflows into AI-powered platforms. Currently building **SmartDeploy** (AI DevOps for AWS/GCP) and **SD-Artifacts** (LLM repo analyzer for production infra generation). 2+ years professional experience shipping real-time systems for 12K users.
+Full-stack engineer turning manual DevOps workflows into AI-powered platforms. Currently building **SmartDeploy** (AI DevOps for AWS/GCP) and **SD-Artifacts** (LLM repo analyzer for production infra generation)—2+ years of professional experience shipping real-time systems for 12K users.
 
 - 🎓 **M.S. Computer Science** @ ASU (Aug 2024–May 2026) – AI/ML focus, GPA 3.96
 - 💼 **Software Engineer** @ Shardings – React Native/Node/Firebase for 12K-user video platform
