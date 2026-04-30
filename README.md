@@ -19,49 +19,10 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-- React | Next.js | TypeScript | Tailwind | **Zustand** | **TanStack Query** | React Native
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,aws,gcp,docker" />
+</p>
 
-**Backend & APIs**  
-- **FastAPI** | Node.js | Socket.IO | WebRTC | Mediasoup
-
-**Infra & Cloud**  
-- **Docker** | Kubernetes | Helm | AWS (EC2/ECS/ALB) | GCP | GitHub Actions | Terraform
-
-**AI/ML & Data**  
-- Bedrock | Gemini | **sentence-transformers** | Neo4j | Kafka | Supabase/PostgreSQL | RAG
-
-**DevOps**  
-- LangChain | LangGraph | Supabase | Hadolint | GitHub API | Server-Sent Events
-
-**Mobile**  
-- React Native | Expo | CodePush | Firebase Cloud Messaging | Fastlane | Xcode Cloud | Kotlin | Jetpack Compose
-
-***
-
-## 🚀 Featured Projects
-
-### [SmartDeploy](https://smart-deploy.xyz)
-**AI DevOps platform** – Connect GitHub repo → auto-detects stack → deploys to AWS/GCP with VPC, ALB, RDS. Zero-config, production-grade.  
-Next.js | AWS/GCP | WebSockets | TanStack Query | Supabase
-
-### [SD-Artifacts](https://github.com/anirudh-makuluri/sd-artifacts)
-**LLM Repo Analyzer** – Scans GitHub repos → generates Dockerfile/compose/nginx + hadolint validation. Powers SmartDeploy's infra gen.  
-LangGraph | Claude Haiku | FastAPI SSE | Supabase Cache | GitHub API 
-
-### [Accio — PDF RAG](https://github.com/anirudh-makuluri/accio)
-PDFs → Neo4j knowledge graph (3K nodes/4.9K edges) → grounded Q&A with bbox highlights. 77.5 F1 entity extraction.  
-Neo4j | PyMuPDF | Gemini | FastAPI | Docker
-
-### [GraphStream DPS](https://github.com/anirudh-makuluri/graphstream_dps)
-**K8s streaming pipeline** – NYC taxi data → Neo4j GDS (PageRank/BFS) via Kafka/ZooKeeper. <500ms event-to-graph latency.  
-Kubernetes | Helm | Kafka | Neo4j GDS | Docker  
-
-### [Chatify — E2EE Chat](https://chatify.anirudh-makuluri.xyz)
-Real-time chat w/ groups, media, AI assistant (Gemini + Zep memory). Message-level E2EE via libsodium.  
-Socket.IO | React Native/Next.js | WebRTC | Firebase | Libsodium
-
-***
 
 ## 🏅 Certifications
 
