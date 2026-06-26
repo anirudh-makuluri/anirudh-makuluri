@@ -36,7 +36,7 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 ## 💬 Get In Touch
 
 - 📧 [anirudh.makuluri@gmail.com](mailto:anirudh.makuluri@gmail.com)
-- 🌐 [Portfolio](https://anirudh-makuluri.xyz) 
+- 🌐 [Portfolio](https://makuluri.com) 
 - 💼 [LinkedIn](https://linkedin.com/in/anirudh-makuluri) 
 
 Phoenix, AZ | Open to collaborations & roles 
