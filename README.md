@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anirudh Makuluri
 
-**Full-Stack & AI/ML Engineer** | ASU M.S. CS | SmartDeploy & SD-Artifacts Creator
+**Full-Stack & AI Engineer** | ASU M.S. CS | SmartDeploy & SD-Artifacts Creator
 
 
 
@@ -14,7 +14,6 @@ Full-stack engineer turning manual DevOps workflows into AI-powered platforms. C
 - 🎓 **B.E. Electronics** @ BITS Pilani (Aug 2018–May 2022)
 - 💼 **Software Engineer** @ Shardings – React Native/Node/Firebase for 12K-user video platform
 - 🏆 1st Place (Auth0 AI Agents) + 2nd Place (Google Track) @ Innovation Hacks 2.0, ASU
-- 🏆 **Oracle Certified Generative AI Professional** + ML Specialization (DeepLearning.AI)
 
 ***
 
